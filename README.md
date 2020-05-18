@@ -18,7 +18,7 @@ pip3 install -r requirements.txt
 * Usage
 
 ```bash
-python desktopAssistant.py
+python desktopAssistant_Lackey.py
 ````
 
 
